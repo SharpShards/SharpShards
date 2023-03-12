@@ -1,16 +1,13 @@
-### Hi there 👋
+## Eae, sou o R. S. Coldwater 👋
 
-<!--
-**RSColdwater/RSColdwater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :scroll: Descrição
+Desenvolvedor Full-Stack em busca de novas experiências e conhecimento.
 
-Here are some ideas to get you started:
+### :man_technologist: Busco
+Estágio ou freelancer para desenvolvimento web ou aplicações Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :books: No Momento
+Estudando JS e criando novos projetos para aprimorar meu conhecimentos em HTML e CSS. 
+
+### :sparkles: Fun Fact
+Quando não estou programando ou assistindo série, estou estudando programação... :sweat_smile:
