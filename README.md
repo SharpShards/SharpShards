@@ -1,13 +1,16 @@
-## Eae, sou o R. S. Coldwater 👋
+## Eae, sou Lucas Rafael Azevedo 👋
 
-### :scroll: Descrição
+### 💠 Identificação
+Atuo sob o pseudônimo Sharp Shards.
+
+### 📜 Descrição
 Desenvolvedor Full-Stack em busca de novas experiências e conhecimento.
 
-### :man_technologist: Busco
-Estágio ou freelancer para desenvolvimento web ou aplicações Java.
+### 👨‍💻 Busco
+Estágio ou freelancer para desenvolvimento web.
 
-### :books: No Momento
+### 📚 No Momento
 Estudando JS e criando novos projetos para aprimorar meu conhecimentos em HTML e CSS. 
 
-### :sparkles: Fun Fact
+### ✨ Fun Fact
 Quando não estou programando ou assistindo série, estou estudando programação... :sweat_smile:
